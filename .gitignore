@@ -1,0 +1,15 @@
+target
+acapela/*.wav
+*.class
+*.nocommit
+bin/
+/.settings
+.classpath
+.project
+*.class
+logs
+bin
+.DS_Store
+**/*~
+csv
+.metadata
